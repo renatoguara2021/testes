@@ -47,15 +47,16 @@ a:hover{
 
 footer{
 
-    background-color: gray;
+    background-color:#b9b912;
     
     
 }
 
 .rodape{
 
-    color:#54c508;
+    
     font-size: 20px;
+    color: #1215b9;
     
     
 }
@@ -72,12 +73,15 @@ footer{
 .assinatura{
 
     font-style: italic;
+    text-align: right;
+    padding-right: 30px;
+    
 }
 
 .menu{
 
     text-align: right;
-    background: #c5c5b2;
+    background: #b9b912;
     padding: 18px;
     
 }
