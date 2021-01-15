@@ -1,0 +1,63 @@
+html, body, h1, p{
+
+    font-family: 'Roboto', sans-serif;
+}
+
+body{
+
+    background-image: url('/img/fundo.png');
+}
+
+h1{
+
+    color:  #0b3eaa;
+    text-align: center;
+}
+
+li{
+
+    display: inline;
+}
+
+ul{
+
+    background-color: darkgray;
+    height: 50px;
+    padding-top: 20px;
+    color: white;
+    text-transform: uppercase;
+}
+
+a {
+
+    text-decoration: none;
+}
+
+a:hover{
+
+    color:rgb(202, 186, 212) ;
+}
+
+footer{
+
+    background-color: gray;
+    
+}
+
+.rodape{
+
+    color:#54c508;
+    font-size: 20px;
+    
+    
+}
+.conteudo{
+
+    background-color:#635858b9;
+
+}
+
+.assinatura{
+
+    font-style: italic;
+}
