@@ -12,11 +12,13 @@ h1{
 
     color:  #0b3eaa;
     text-align: center;
+    letter-spacing: -2px;
+    
 }
 
 p{
 
-    text-indent: 20px;
+    text-indent: 25px;
 }
 
 li{
