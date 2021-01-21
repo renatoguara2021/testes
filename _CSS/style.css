@@ -1,18 +1,25 @@
+
+
+
 html, body, h1, p, footer,span{
 
     font-family: 'Roboto', sans-serif;
 }
 
 body{
+    border: 1px solid rgb(4, 15, 49);
     width: 100%;
-    background:#d2d2c1 url('/img/fundo.png');
-    
+    /*background:#9411b4;*/
+   background: url('/img/capa.png'); 
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-size: 100%;
 
 }
 
 h1{
 
-    color:  #485570;
+    color:  #508d18;
     text-align: center;
     letter-spacing: -2px;
     
@@ -22,6 +29,7 @@ p{
 
     text-indent: 25px;
     text-align: justify;
+    color:black;
 }
 
 li{
@@ -31,7 +39,7 @@ li{
 
 ul{
 
-    background-color: darkgray;
+    background-color: rgb(105, 72, 72);
     height: 50px;
     padding-top: 20px;
     color: white;
@@ -50,7 +58,7 @@ a:hover{
 
 footer{
 
-    background-color:#b9b912;
+    background-color:#1d9c56;
     
     
 }

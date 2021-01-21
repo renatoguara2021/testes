@@ -4,18 +4,65 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Projeto Site Anna Bella</title>
-    <link rel="stylesheet"type="text/css" href="/_CSS/style.css">
-    <!-- Load Babel -->
-<!-- v6 <script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script> -->
-<script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
-<!-- Your custom script here -->
-<script type="text/babel">
-const getMessage = () => "Deu certo!!!!!!!!!!!";
-document.getElementById('output').innerHTML = getMessage();
-</script>
+
+    <style>
+        /* ID
+        ***
+        *******************************
+        */
+        #destaque{
+
+            background-color: rgb(177, 17, 169);
+        }
+
+        
+        /* CLASSE****************************
+        */
+        .testes{
+
+            background-color: rgba(11, 199, 199, 0.685);
+        }
+    </style>
 </head>
 <body>
-    <h1>Projeto Site Anna Bella</h1>
-    <div id="output"></div>
+
+
+    <img src="/img/capa.png" alt="Anna Bella" id="anna" title="she is woman">
+
+    <form  name="cadastro" >
+
+        <label>Nome:</label>
+        <input type="text" name="nome" ></br>
+
+        <label>Email:</label>
+        <input type="text" name="email" ></br><hr>
+
+        <select name="sexo">
+          <option value="empty">Selecione....</option>
+         <option value="masculino">Masculino</option>
+         <option value="feminino">Feminino</option>
+         <option value="cross">Cross </option>
+        </select>
+
+
+    </form>
+
+    <button onclick="salvar()">Clique aqui!!!</button>
+
+    <a id="link"  href="http://www.google.com">Google</a>
+    
+    <script type="text/javascript">
+
+   
+function salvar(){
+    
+let link1 = document.querySelector('a#link');
+link1.href = "http://www.udemy.com";
+console.log(link1);
+}
+
+
+
+</script>
 </body>
 </html>
