@@ -1,6 +1,4 @@
 
-
-
 html, body, h1, p, footer,span{
 
     font-family: 'Roboto', sans-serif;
@@ -29,7 +27,7 @@ p{
 
     text-indent: 25px;
     text-align: justify;
-    color:black;
+    color:rgb(212, 7, 185);
 }
 
 li{
