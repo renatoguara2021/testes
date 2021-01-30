@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\renat\\OneDrive\\Área de Trabalho\\PROJETO SITE ANA BELLA UDEMY\\PROJETO SITE ANA BELLA UDEMY.csproj": {}
+    "c:\\Users\\renat\\OneDrive\\Área de Trabalho\\PROJETO SITE ANA BELLA UDEMY\\PROJETO SITE ANA BELLA UDEMY.csproj": {}
   },
   "projects": {
-    "C:\\Users\\renat\\OneDrive\\Área de Trabalho\\PROJETO SITE ANA BELLA UDEMY\\PROJETO SITE ANA BELLA UDEMY.csproj": {
+    "c:\\Users\\renat\\OneDrive\\Área de Trabalho\\PROJETO SITE ANA BELLA UDEMY\\PROJETO SITE ANA BELLA UDEMY.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\renat\\OneDrive\\Área de Trabalho\\PROJETO SITE ANA BELLA UDEMY\\PROJETO SITE ANA BELLA UDEMY.csproj",
+        "projectUniqueName": "c:\\Users\\renat\\OneDrive\\Área de Trabalho\\PROJETO SITE ANA BELLA UDEMY\\PROJETO SITE ANA BELLA UDEMY.csproj",
         "projectName": "PROJETO SITE ANA BELLA UDEMY",
-        "projectPath": "C:\\Users\\renat\\OneDrive\\Área de Trabalho\\PROJETO SITE ANA BELLA UDEMY\\PROJETO SITE ANA BELLA UDEMY.csproj",
+        "projectPath": "c:\\Users\\renat\\OneDrive\\Área de Trabalho\\PROJETO SITE ANA BELLA UDEMY\\PROJETO SITE ANA BELLA UDEMY.csproj",
         "packagesPath": "C:\\Users\\renat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\renat\\OneDrive\\Área de Trabalho\\PROJETO SITE ANA BELLA UDEMY\\obj\\",
+        "outputPath": "c:\\Users\\renat\\OneDrive\\Área de Trabalho\\PROJETO SITE ANA BELLA UDEMY\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\renat\\AppData\\Roaming\\NuGet\\NuGet.Config",
